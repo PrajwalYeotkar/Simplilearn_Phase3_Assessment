@@ -1,0 +1,24 @@
+SimpliLearn Project 3 :Laptop Online Shop
+
+In this phase I have made a Online laptop shop for Digital Retailers Inc which wants to 
+expands its business online.
+
+So using Asp.Net MVC i have made a online shop for them 
+
+Here there are three models: Order,Laptop,Carousel
+
+The site has Index page,aboutUs and contactUs page
+
+After clicking on more details of product is shown and clicking buy will ask for 
+client details fill it accordingly.
+
+The Orders list is shown after entering the client details
+
+or the client can continue shopping or see their orders.
+
+
+
+
+
+
+ 
